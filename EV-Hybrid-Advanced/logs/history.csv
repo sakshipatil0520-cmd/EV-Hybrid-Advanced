@@ -1,0 +1,3 @@
+timestamp,vin,input,label,score
+2025-12-12T06:13:56.425057,VIN0001,"{""vin"": ""VIN0001"", ""battery_level"": 80.0, ""motor_temp"": 60.0, ""mileage"": 10000.0, ""charging_cycles"": 200}",OK,0.0
+2025-12-12T06:20:50.574994,VIN0001,"{""vin"": ""VIN0001"", ""battery_level"": 80.0, ""motor_temp"": 60.0, ""mileage"": 10000.0, ""charging_cycles"": 200}",OK,0.0
